@@ -1,4 +1,11 @@
-# Teste_Software_2025_Santana_Camille
+# Processamento de Linguagem Natural
+Equipe:
+
+
+- Camille Sousa Meneses de Santana
+- Nayla Sahra Santos das Chagas
+- Túlio Sousa de Gois
+  
 ## Tutorial: Análise de Desempenho de Tokenizadores em Python
 
 Neste tutorial exploramos a diferença de desempenho e funcionalidade entre métodos de tokenização em Python, utilizando a biblioteca `re` (expressões regulares) e a biblioteca NLTK (Natural Language Toolkit). A análise se baseia em uma pergunta do Stack Overflow escolhida previamente, e demonstra na prática como cada um das abordagens funciona.
